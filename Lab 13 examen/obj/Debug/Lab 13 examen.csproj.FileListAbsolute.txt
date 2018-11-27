@@ -1,0 +1,14 @@
+C:\Users\Jose\source\repos\Lab 13 examen\Lab 13 examen\bin\Debug\Lab 13 examen.exe.config
+C:\Users\Jose\source\repos\Lab 13 examen\Lab 13 examen\bin\Debug\Lab 13 examen.exe
+C:\Users\Jose\source\repos\Lab 13 examen\Lab 13 examen\bin\Debug\Lab 13 examen.pdb
+C:\Users\Jose\source\repos\Lab 13 examen\Lab 13 examen\bin\Debug\Modelo.dll
+C:\Users\Jose\source\repos\Lab 13 examen\Lab 13 examen\bin\Debug\Modelo.pdb
+C:\Users\Jose\source\repos\Lab 13 examen\Lab 13 examen\obj\Debug\Lab 13 examen.csprojAssemblyReference.cache
+C:\Users\Jose\source\repos\Lab 13 examen\Lab 13 examen\obj\Debug\Lab_13_examen.Buscador.resources
+C:\Users\Jose\source\repos\Lab 13 examen\Lab 13 examen\obj\Debug\Lab_13_examen.Properties.Resources.resources
+C:\Users\Jose\source\repos\Lab 13 examen\Lab 13 examen\obj\Debug\Lab 13 examen.csproj.GenerateResource.cache
+C:\Users\Jose\source\repos\Lab 13 examen\Lab 13 examen\obj\Debug\Lab 13 examen.csproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\Lab 13 examen\Lab 13 examen\obj\Debug\Lab 13 examen.csproj.CopyComplete
+C:\Users\Jose\source\repos\Lab 13 examen\Lab 13 examen\obj\Debug\Lab 13 examen.exe
+C:\Users\Jose\source\repos\Lab 13 examen\Lab 13 examen\obj\Debug\Lab 13 examen.pdb
+C:\Users\Jose\source\repos\Lab 13 examen\Lab 13 examen\obj\Debug\Lab_13_examen.Perfil.resources
